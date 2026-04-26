@@ -9,11 +9,11 @@
   </a>
 </p>
 
-<p align="center">Javascript lover</p>
+<p align="center">Javascript & Typescript lover</p>
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=networkk1337&abbreviated=true&color=orange&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=networkk1337&color=grey&abbreviated=true" 
     alt="profile views"
   />
 </p>
