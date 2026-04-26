@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<p align="center">Javascript & Typescript lover</p>
+<p align="center">Javascript lover</p>
 
 <p align="center">
   <img 
