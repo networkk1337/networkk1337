@@ -3,7 +3,7 @@
 <p align="center">Javascript lover</p>
 
 <div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=xvqh&color=grey" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=networkk1337&color=grey" alt="profile views"/>
 </div>
 
 # 📊 GitHub Stats:
