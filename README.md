@@ -8,8 +8,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats-sage-seven-36.vercel.app/api?username=xvqh&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-    <img src="https://github-readme-stats-sage-seven-36.vercel.app/api/top-langs/?username=xvqh&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
+    <img src="https://github-readme-stats-sage-seven-36.vercel.app/api?username=Network&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats"/>
+    <img src="https://github-readme-stats-sage-seven-36.vercel.app/api/top-langs/?username=Network&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"/>
 </div>
 <!---
 sewiiiii/sewiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
