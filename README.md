@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=pertinentes&abbreviated=true&color=orange&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=networkk1337&abbreviated=true&color=orange&style=for-the-badge" 
     alt="profile views"
   />
 </p>
